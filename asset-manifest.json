@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.781c5c0c.css",
+    "main.js": "/Portfolio-Website/static/js/main.b1dffd55.js",
+    "static/media/cheesy.jpg": "/Portfolio-Website/static/media/cheesy.b98026341a9db056e679.jpg",
+    "static/media/forum.jpg": "/Portfolio-Website/static/media/forum.93936ec3fc25e61b03df.jpg",
+    "static/media/python.png": "/Portfolio-Website/static/media/python.5c3b3c7e9515cb285963.png",
+    "static/media/mysql.png": "/Portfolio-Website/static/media/mysql.ce268bd6ecaac4f61bf0.png",
+    "static/media/c.png": "/Portfolio-Website/static/media/c.5f834ebf51e862d7801b.png",
+    "static/media/django.png": "/Portfolio-Website/static/media/django.62d86f25c18cf852330c.png",
+    "static/media/react.png": "/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/logo.png": "/Portfolio-Website/static/media/logo.8ee35751d5e4aaa34720.png",
+    "static/media/html.png": "/Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.781c5c0c.css.map": "/Portfolio-Website/static/css/main.781c5c0c.css.map",
+    "main.b1dffd55.js.map": "/Portfolio-Website/static/js/main.b1dffd55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781c5c0c.css",
+    "static/js/main.b1dffd55.js"
+  ]
+}
